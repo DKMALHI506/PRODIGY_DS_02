@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the Titanic dataset
-df = pd.read_csv(r'C:\Users\Muzammil Computers\Desktop\train.csv',  delimiter=',')
+df = pd.read_csv(r'C:datasetrain.csv',  delimiter=',')t
 
 # Display the first few rows of the dataset
 print(df.head())
